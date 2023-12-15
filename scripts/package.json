@@ -1,0 +1,8 @@
+{
+    "type": "module",
+    "dependencies": {
+        "bech32": "^2.0.0",
+        "dotenv": "^16.3.1",
+        "lucid-cardano": "^0.10.7"
+    }
+}
