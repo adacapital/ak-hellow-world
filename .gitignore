@@ -1,0 +1,18 @@
+# Aiken compilation artifacts
+artifacts/
+# Aiken's project working directory
+build/
+# Aiken's default documentation export
+docs/
+
+# Dependency directories
+node_modules/
+
+scripts/*.vkey
+scripts/*.skey
+scripts/*.addr
+scripts/*.sk
+
+# dotenv environment variables file
+.env
+.env.test
